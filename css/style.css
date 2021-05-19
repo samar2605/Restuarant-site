@@ -60,7 +60,7 @@ body{
     min-height: 300px;
  }
  
-#carouselButtons{
+#carouselButton{
      position:absolute;
      right:0;
      bottom: 0;
